@@ -18,13 +18,13 @@ This repository contains the personal homepage of Suwan Li, a Ph.D. student in C
 
 ## How to Deploy on GitHub Pages
 
-1. Create a new repository on GitHub (e.g., `suwanli.github.io` or `suwanli-homepage`)
+1. Create a new repository on GitHub named `lswchina.github.io` (this naming enables GitHub Pages)
 2. Push the contents of this folder to the repository
 3. Go to repository Settings > Pages
 4. Under "Source", select "Deploy from a branch"
 5. Choose the branch (e.g., `main`) and folder (`/root`)
 6. Save and wait for deployment (usually takes a minute)
-7. Your site will be available at `https://[your-username].github.io/[repository-name]`
+7. Your site will be available at `https://lswchina.github.io`
 
 If you want to use a custom domain, add a `CNAME` file with your domain name.
 
